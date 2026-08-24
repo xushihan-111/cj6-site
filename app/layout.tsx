@@ -11,9 +11,9 @@ const crimsonPro = Crimson_Pro({
 })
 
 export const metadata: Metadata = {
-  title: "CJ-6 | Nanchang Yaohu Flight Base",
+  title: "CJ6 | Nanchang Yaohu Flight Base",
   description:
-    "The Nanchang CJ-6: China's first indigenously designed and mass-produced trainer aircraft. Over 3,000 built, 10 million flight hours, zero design-related fatal accidents.",
+    "The Nanchang CJ6: China's first indigenously designed and mass-produced trainer aircraft. Over 3,000 built, 10 million flight hours, zero design-related fatal accidents.",
   generator: "v0.app",
 }
 

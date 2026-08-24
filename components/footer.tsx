@@ -6,7 +6,7 @@ export function Footer() {
           {/* Brand */}
           <div className="md:col-span-1">
             <h3 className="text-2xl font-light tracking-wider mb-4">
-              NANCHANG <span className="font-semibold text-primary">CJ-6</span>
+              NANCHANG <span className="font-semibold text-primary">CJ6</span>
             </h3>
             <p className="text-sm font-light opacity-80 leading-relaxed">
               China&apos;s first indigenously designed and mass-produced trainer aircraft. Operated by Nanchang Yaohu

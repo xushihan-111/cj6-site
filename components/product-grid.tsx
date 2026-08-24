@@ -4,7 +4,7 @@ import { useState } from "react"
 import { X } from "lucide-react"
 
 const galleryItems = [
-  { src: "/1.jpg", alt: "CJ-6 in flight", span: "md:col-span-2 md:row-span-2" },
+  { src: "/1.jpg", alt: "CJ6 in flight", span: "md:col-span-2 md:row-span-2" },
   { src: "/4..jpg", alt: "Engine close-up" },
   { src: "/5..jpg", alt: "Cockpit instruments" },
   { src: "/6..jpg", alt: "Propeller detail" },

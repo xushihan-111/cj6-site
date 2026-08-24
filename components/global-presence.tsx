@@ -43,7 +43,7 @@ export function GlobalPresence() {
             A Worldwide Community
           </h2>
           <p className="text-lg font-light leading-relaxed text-muted-foreground max-w-3xl mx-auto">
-            From military trainer to civilian favorite — the CJ-6 flies on across the globe. Exported to over a dozen
+            From military trainer to civilian favorite — the CJ6 flies on across the globe. Exported to over a dozen
             countries and treasured by hundreds of pilots across the United States.
           </p>
         </div>

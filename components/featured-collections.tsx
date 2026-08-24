@@ -6,7 +6,7 @@ const services = [
     icon: Plane,
     title: "Aerobatic Airshow",
     description:
-      "The Red Star Aerobatic Team performs thrilling dual and multi-ship aerobatic routines in the CJ-6.",
+      "The Red Star Aerobatic Team performs thrilling dual and multi-ship aerobatic routines in the CJ6.",
   },
   {
     icon: GraduationCap,

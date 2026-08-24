@@ -6,7 +6,7 @@ export function Hero() {
     <section id="aircraft" className="relative h-screen w-full overflow-hidden">
       {/* Hero Image */}
       <div className="absolute inset-0">
-        <img src="/3.jpg" alt="Nanchang CJ-6 trainer aircraft" className="w-full h-full object-cover" />
+        <img src="/3.jpg" alt="Nanchang CJ6 trainer aircraft" className="w-full h-full object-cover" />
         <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-black/30 to-black/60" />
       </div>
 

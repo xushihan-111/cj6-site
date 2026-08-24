@@ -31,14 +31,14 @@ const milestones = [
     year: "2019",
     title: "Civil Aviation Certification",
     description:
-      "Received TC/PC certification from the Civil Aviation Administration of China (CAAC), entering the civil market as the 'Haiyan' variant.",
+      "Received TC/PC certification issued by the Civil Aviation Administration of China (CAAC), marking its official entry into China's civil aviation market as the civil-spec CJ6 aircraft.",
     image: "/1010.png",
   },
   {
     year: "2023",
     title: "First Civil-Airworthy Flight — September 17",
     description:
-      "The first standard airworthiness-certified civilian CJ-6 (Registration B-126M) completed its maiden 'airworthy' flight at AVIC Hongdu — a landmark in China's military-to-civilian aviation transition. With +6g / -3g structural limits and NACA-optimized anti-stall airfoils, the CJ-6 continues to serve as a natural aerobatic platform, flown by the Red Star Aerobatic Team in thrilling dual and multi-ship routines.",
+      "The first standard airworthiness-certified civilian CJ6 (Registration B-126M) completed its maiden 'airworthy' flight at AVIC Hongdu — a landmark in China's military-to-civilian aviation transition. With +6g / -3g structural limits and NACA-optimized anti-stall airfoils, the CJ6 continues to serve as a natural aerobatic platform, flown by the Red Star Aerobatic Team in thrilling dual and multi-ship routines.",
     image: "/999.png",
   },
 ]
@@ -62,7 +62,7 @@ export function Heritage() {
             From Military Legend to Civilian Favorite
           </h2>
           <p className="text-lg font-light leading-relaxed text-muted-foreground max-w-2xl mx-auto">
-            With 68 years of continuous service. A safety record unmatched in aviation history. The CJ-6&apos;s journey
+            With 68 years of continuous service. A safety record unmatched in aviation history. The CJ6&apos;s journey
             from military trainer to global civilian icon.
           </p>
         </div>
@@ -93,10 +93,10 @@ export function Heritage() {
         {/* Quote */}
         <div className="mt-16 text-center max-w-2xl mx-auto">
           <blockquote className="text-xl md:text-2xl font-light italic text-muted-foreground leading-relaxed">
-            &ldquo;Flying the CJ-6 is like shaking hands with history — it still flies as beautifully today as it did
+            &ldquo;Flying the CJ6 is like shaking hands with history — it still flies as beautifully today as it did
             68 years ago.&rdquo;
           </blockquote>
-          <p className="text-sm tracking-wide mt-4 text-muted-foreground/60">— American CJ-6 Owner &amp; Restorer</p>
+          <p className="text-sm tracking-wide mt-4 text-muted-foreground/60">— American CJ6 Owner &amp; Restorer</p>
         </div>
       </div>
     </section>
