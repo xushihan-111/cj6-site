@@ -63,7 +63,7 @@ export function TechnicalSpecs() {
         { label: "Endurance", value: "3.6 h" },
         { label: "Takeoff Roll", value: "280 m" },
       ],
-      gallery: ["/7.jpg", "/8.jpg", "/9.jpg"],
+      gallery: ["/15.jpg", "/8.jpg", "/9.jpg"],
     },
   ]
 
