@@ -8,7 +8,7 @@ const milestones = [
   },
   {
     year: "1958",
-    title: "First Flight — July 27",
+    title: "First Flight — August 27",
     description:
       "Just 72 days from detailed design to maiden flight — a testament to the engineering team's extraordinary efficiency and dedication.",
     image: "/14.jpg",
@@ -17,7 +17,7 @@ const milestones = [
     year: "1962",
     title: "Military Certification",
     description:
-      "Officially certified for military service after rigorous testing, beginning six decades of continuous operation as China's primary trainer.",
+      "Officially certified for military service after rigorous testing, beginning 68 years of continuous operation as China's primary trainer.",
     image: "/111.png",
   },
   {
@@ -62,7 +62,7 @@ export function Heritage() {
             From Military Legend to Civilian Favorite
           </h2>
           <p className="text-lg font-light leading-relaxed text-muted-foreground max-w-2xl mx-auto">
-            Six decades of continuous service. A safety record unmatched in aviation history. The CJ-6&apos;s journey
+            With 68 years of continuous service. A safety record unmatched in aviation history. The CJ-6&apos;s journey
             from military trainer to global civilian icon.
           </p>
         </div>
@@ -94,7 +94,7 @@ export function Heritage() {
         <div className="mt-16 text-center max-w-2xl mx-auto">
           <blockquote className="text-xl md:text-2xl font-light italic text-muted-foreground leading-relaxed">
             &ldquo;Flying the CJ-6 is like shaking hands with history — it still flies as beautifully today as it did
-            sixty years ago.&rdquo;
+            68 years ago.&rdquo;
           </blockquote>
           <p className="text-sm tracking-wide mt-4 text-muted-foreground/60">— American CJ-6 Owner &amp; Restorer</p>
         </div>

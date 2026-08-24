@@ -28,7 +28,7 @@ export function ProductGrid() {
           <p className="text-sm tracking-[0.3em] uppercase text-muted-foreground mb-4 font-light">
             Gallery &amp; Media
           </p>
-          <h2 className="text-4xl md:text-5xl font-light text-foreground tracking-tight">Sixty Years in Frame</h2>
+          <h2 className="text-4xl md:text-5xl font-light text-foreground tracking-tight">68 Years in Frame</h2>
         </div>
 
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 auto-rows-[200px] md:auto-rows-[250px]">

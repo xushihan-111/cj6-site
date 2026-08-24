@@ -14,7 +14,7 @@ export function Hero() {
       <div className="relative h-full flex items-center justify-center text-center px-4">
         <div className="max-w-4xl">
           <p className="text-white/90 text-sm tracking-[0.3em] uppercase mb-4 font-light">
-            Est. 1958 · First Flight July 27
+            Est. 1958 · First Flight August 27
           </p>
           <h2 className="text-5xl md:text-7xl lg:text-8xl font-light text-white mb-6 tracking-tight text-balance">
             THE CJ6

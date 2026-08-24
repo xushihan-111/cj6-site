@@ -14,7 +14,7 @@ export function TransitionSection() {
         <p className="text-white/80 text-sm tracking-[0.3em] uppercase mb-6 font-light">The Experience</p>
         <h2 className="text-5xl md:text-7xl font-light text-white mb-6 tracking-tight">Fly the Legend Yourself</h2>
         <p className="text-lg md:text-xl text-white/80 mb-10 max-w-2xl mx-auto font-light leading-relaxed">
-          The CJ-6 isn't just a page in aviation history — it's a living, breathing machine you can touch, hear, and fly. At Nanchang Yaohu Flight Base, we bring 60 years of aeronautical heritage within your reach.
+          The CJ-6 isn't just a page in aviation history — it's a living, breathing machine you can touch, hear, and fly. At Nanchang Yaohu Flight Base, we bring 68 years of aeronautical heritage within your reach.
         </p>
       </div>
 

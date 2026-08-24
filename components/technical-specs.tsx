@@ -75,7 +75,7 @@ export function TechnicalSpecs() {
             Technical Specifications
           </p>
           <h2 className="text-4xl md:text-5xl font-light text-foreground tracking-tight">Engineering Excellence</h2>
-          <p className="text-lg font-light text-muted-foreground mt-4">Six decades of refinement behind every rivet.</p>
+          <p className="text-lg font-light text-muted-foreground mt-4">68 years of refinement behind every rivet.</p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

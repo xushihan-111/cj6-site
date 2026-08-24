@@ -8,7 +8,7 @@ const navLinks = [
   { href: "#heritage", label: "HERITAGE" },
   { href: "#specs", label: "SPECS" },
   { href: "#global", label: "GLOBAL" },
-  { href: "#experience", label: "EXPERIENCE" },
+  { href: "#experience", label: "SERVICES" },
 ]
 
 export function Navigation() {
